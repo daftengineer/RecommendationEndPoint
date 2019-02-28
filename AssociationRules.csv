@@ -1,0 +1,3 @@
+action,lhs,rhs,confidence,support,lift
+Recomonded,"{'DRA_code':'low', 'industryType':'Energy', 'goods':'Sugar'}","{'Country':'China'}",0.7,0.6,0.8
+Interested,"{'Country':'China', 'interestCollectionType':'PrePaid'}","{'industryType':'Energy'}",0.8,0.6,0.3
